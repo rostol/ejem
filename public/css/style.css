@@ -1,0 +1,22 @@
+
+.tnm{
+
+margin-left: 800px;
+}
+
+.ani{
+    margin-left: 1050px;
+    width: 100px;
+    height: 80px;
+}
+
+.cuerpo{
+    padding: 7%;
+}
+
+.pie{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
