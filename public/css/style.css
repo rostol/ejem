@@ -1,26 +1,38 @@
+
 .barra{
-  background-color: #00315b;
-  padding: 15px 0;
-  color: #000000;
+
+    position: fixed;
+    top: 0;
+    border-width: 0 0 1px;
 }
+.sep{
+    margin-top: 0px;
+    width: 100%;
+}
+
 .tnm{
 
 margin-left: 800px;
 }
 
 .ani{
-    margin-left: 1050px;
+    margin-left: 1100px;
     width: 100px;
     height: 80px;
 }
 
-.cuerpo{
-    padding: 7%;
+div.cuerpo{
+    padding-top: 15%;
+    padding-left: 10%;
+    padding-right: 10%;;
+    padding-bottom: 15%;
+    position: static;
+
 }
 
 .pie{
     position: fixed;
-    left: 0;
     bottom: 0;
-    width: 100%;
+    margin-bottom: 0;
+    width: 100%; 
 }
