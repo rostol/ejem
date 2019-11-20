@@ -6,7 +6,6 @@
     border-width: 0 0 1px;
 }
 .sep{
-    position: fixed;
     margin-top: 0px;
     width: 100%;
 }
@@ -23,11 +22,11 @@ margin-left: 800px;
 }
 
 div.cuerpo{
-    
+    padding-top: 15%;
     padding-left: 10%;
     padding-right: 10%;;
-    
-    
+    padding-bottom: 15%;
+    position: static;
 
 }
 
