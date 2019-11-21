@@ -1,14 +1,25 @@
-body {
-    background-image: url("../img/membretada.png");
-    width: 100%;
-   }
-.barra{
 
+/* .barra{
     position: fixed;
-    top: 0;
+    top: 0; 
     border-width: 0 0 1px;
+} */
+
+.contenedor{
+    position: relative;
+   
 }
-.sep{
+.menbretado {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+.tex{
+    position: absolute;
+    padding-top: 20%;
+}
+
+/* .sep{
     margin-top: 0px;
     width: 100%;
 }
@@ -30,4 +41,4 @@ margin-left: 800px;
     bottom: 0;
     margin-bottom: 0;
     width: 100%; 
-}
+} */
