@@ -17,6 +17,9 @@
 .tex{
     position: absolute;
     padding-top: 20%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 20%;
 }
 
 /* .sep{
